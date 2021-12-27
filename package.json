@@ -1,0 +1,19 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "excel-export": "^0.5.1",
+    "express": "^4.17.2",
+    "superagent": "^6.1.0",
+    "superagent-charset": "^1.2.0",
+    "urlencode-gb2312-ignore": "^1.0.3"
+  }
+}
